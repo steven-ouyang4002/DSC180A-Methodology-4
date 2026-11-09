@@ -14,7 +14,7 @@
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-As of right now, the most interesting topic covered in my domain is using fastText to categorize different memos into different categories of expenses my group has developed.
+As of right now, the most interesting topic covered in my domain is using FastText to categorize different memos into different categories of expenses my group has developed.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
@@ -22,8 +22,8 @@ During the Quarter 2 Project, one thing that I want to investigate is probably h
 
 **3. What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 
-One potential change that I would make to the approach in the Quarter 1 project is to be more organized and goal-oriented as a group. This has been extremely difficult, as everyone in the group has different priorities.
+One potential change that I would make to the approach in the Quarter 1 Project is to be more organized and goal-oriented as a group. This has been extremely difficult, as everyone in the group has different priorities.
 
 **4. What other techniques would you be interested in using in your project?**
 
-I want to see if there are any other more effective classification models for NLP other than fastText. If not, then fastText is probably the better model for this classification task.
+I want to see if there are any other more effective classification models for NLP other than FastText. If not, then FastText is probably the better model for this classification task.
